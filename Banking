@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Investment Banking Education</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">What is Investment Banking?</a></li>
+                <li><a href="#how-to-become">How to Become an Investment Banker</a></li>
+                <li><a href="#colleges">Top Colleges</a></li>
+                <li><a href="#salary">Salary</a></li>
+                <li><a href="#characteristics">Characteristics</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h1>Welcome to the Investment Banking Education Site</h1>
+        <p>Your guide to becoming a successful investment banker.</p>
+    </section>
+
+    <section id="about">
+        <h2>What is Investment Banking?</h2>
+        <p>Investment banking involves helping companies raise capital, advising on mergers and acquisitions, and providing financial analysis.</p>
+    </section>
+
+    <section id="how-to-become">
+        <h2>How to Become an Investment Banker</h2>
+        <ul>
+            <li>Obtain a bachelor's degree in finance, economics, or related fields.</li>
+            <li>Internships and networking are essential.</li>
+            <li>Obtain an MBA or advanced certifications like CFA.</li>
+            <li>Gain experience in financial analysis and corporate finance.</li>
+        </ul>
+    </section>
+
+    <section id="colleges">
+        <h2>Top Colleges for Investment Banking</h2>
+        <ul>
+            <li>Harvard University</li>
+            <li>University of Pennsylvania (Wharton)</li>
+            <li>Columbia University</li>
+            <li>New York University (Stern)</li>
+            <li>Stanford University</li>
+        </ul>
+    </section>
+
+    <section id="salary">
+        <h2>Investment Banking Salary</h2>
+        <p>Entry-level salary: $100,000 - $150,000/year</p>
+        <p>Mid-level salary: $200,000 - $400,000/year</p>
+        <p>Senior-level salary: $500,000 and beyond</p>
+    </section>
+
+    <section id="characteristics">
+        <h2>Characteristics of Successful Investment Bankers</h2>
+        <ul>
+            <li>Strong analytical skills</li>
+            <li>Excellent communication abilities</li>
+            <li>Leadership qualities</li>
+            <li>Problem-solving mindset</li>
+            <li>High stress tolerance</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Investment Banking Education</p>
+    </footer>
+</body>
+</html>
